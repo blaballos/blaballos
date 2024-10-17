@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Laballos Brandon</h1>
+<h1 align="center">Hi ☕, I'm Laballos Brandon</h1>
 <h3 align="center">developer in progress</h3>
 
-- 📫 mail **laballosbrandon@gmail.com**
+- Mail: **laballosbrandon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
