@@ -1,5 +1,5 @@
 ## Hey! Soy Brandon:
-💻 Trainee Developer<br>📚 Estudiante de Ing. en Sistemas de Información en la UTN FRBA<br>👨🏻‍🔧 En búsqueda de crear soluciones<br>🔜 Actualmente desarrollando [Notapp](https://github.com/blaballos/notapp)
+💻 Trainee Developer<br>📚 Estudiante de Ing. en Sistemas de Información en la UTN FRBA<br>👨🏻‍🔧 En búsqueda de crear soluciones<br>🔜 Actualmente refactorizando [SunUI](https://github.com/blaballos/ToolSun)
 
 
 ## Contacto:
