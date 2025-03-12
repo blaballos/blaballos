@@ -1,5 +1,5 @@
-## Hey! Soy Brandon:
-💻 Trainee Developer<br>📚 Estudiante de Ing. en Sistemas de Información en la UTN FRBA<br>👨🏻‍🔧 En búsqueda de crear soluciones<br>🔜 Actualmente refactorizando [SunUI](https://github.com/blaballos/ToolSun)
+## Hey! Soy Brandon Laballos:
+💻 Front End Developer de Buenos Aires, Argentina<br>📚 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional<br>👨🏻‍🔧 En búsqueda de crear soluciones<br>🔜 Actualmente refactorizando [SunUI](https://github.com/blaballos/ToolSun)
 
 
 ## Contacto:
